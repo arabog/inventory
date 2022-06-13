@@ -1,0 +1,2 @@
+For Some Extra Challenge
+Try wrapping this script in a Circle CI job and save the inventory file to the cache or workspace. You'll have to do this later in your project, but it might help to try it now to get a head start!
